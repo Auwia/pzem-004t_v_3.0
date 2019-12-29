@@ -1,6 +1,6 @@
 # Reading PZEM-004t power sensor (new version v3.0) through Modbus-RTU protocol over TTL UART
 # Run as:
-# python3 pzem_004t.py
+# python3 wattmeter_new.py
 
 # To install dependencies:
 # pip install modbus-tk
